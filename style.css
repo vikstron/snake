@@ -1,0 +1,11 @@
+h1 {
+    color:blue;
+}
+
+.helo {
+    color: rgba(160, 47, 47, 0.537);
+    text-transform: capitalize;
+    text-align: center;
+
+
+}
